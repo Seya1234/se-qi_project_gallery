@@ -563,37 +563,55 @@ CASCADES Reducing Unnecessary Care: Estimating Environmental Impact.: https://vi
             }
         ]
     },
-    {
-        id: 9,
-        type: "initiative",
-        title: "SE-QI Toolkit as an Engagement tool",
-        photo: "images/project09.jpg",
-        organization: "Northern Health Authority",
-        department: "Energy and Environmental Sustainability",
-        initiativeStage: "Work in progress",
-        description: `The initiative involved using the SE-QI Toolkit to support sustainability-focused quality improvement work within Northern Health, particularly in relation to clinical ideas such as reducing single-use materials, such as disposable patient gowns, and improving resource stewardship.`,
-        toolkitApplication: `The Toolkit was used during meetings with clinical teams by inputting project ideas and guiding users through Steps 1–3 to explore sustainability opportunities and interpret outputs. It also helped identify relevant resources and demonstrated the Toolkit’s accessibility and practical utility for users unfamiliar with the field of planetary health.`,
-        toolkitAudienceUptake: `The primary audience has been clinical teams and individuals initiating sustainability-related QI projects. Uptake has been early-stage and exploratory, with the Toolkit mainly used as an engagement and education tool.`,
-        mostValuableElements: `Step 2 of the Toolkit was identified as the most valuable component due to its clear, structured presentation of resources that helped avoid unnecessary complexity. It enabled users to efficiently identify relevant pathways and supported quicker decision-making without requiring extensive independent research.`,
-        qiIntegration: "Yes",
-        qiIntegrationComments: `There is strong potential for the Toolkit to be integrated into routine QI work within Northern Health. Given limited capacity in current care models and few dedicated sustainability roles, the Toolkit could help provide structure and direction for teams pioneering people-oriented clinical sustainability initiatives.`
+   {
+    id: 9,
+    type: "initiative",
+    title: "SE-QI Toolkit as an Engagement tool",
+    photo: "images/project09.jpg",
+    organization: "Northern Health Authority",
+    department: "Energy and Environmental Sustainability",
+    healthcareSetting: "",
+    sustainabilityPrinciples: [],
+    sustainabilityOpportunities: [],
+    metrics: {
+        environmental: [],
+        activity: []
     },
-    {
-        id: 10,
-        type: "initiative",
-        title: "Integrating the SE-QI Toolkit in ONSQIN",
-        photo: "images/project10.jpg",
-        organization: "Ontario Health",
-        department: "Ontario Surgical Quality Improvement Network",
-        initiativeStage: "Work in progress",
-        description: `An early-stage initiative involving exploration of the SE-QI Toolkit as a potential future resource to be introduced and disseminated to clinicians through Ontario Health’s Closing the Quality Gap campaign. The Toolkit has the potential to support surgical quality improvement projects by incorporating a valuable sustainability lens into clinically focused initiatives.`,
-        toolkitApplication: `The Toolkit was recently featured at the Ontario Health's Closing the Quality Gap campaign meeting, where its capabilities, resources, and potential for formal integration into educational curricula were discussed.`,
-        toolkitAudienceUptake: `The intended audience is ONSQIN members across approximately 55 hospitals in Ontario. Uptake is currently limited to pilot exploration, with initial use focused on testing feasibility and gathering insights to support potential future scaling.`,
-        mostValuableElements: `Information on how sustainability outcomes can be incorporated into clinical projects.
+    domainsOfQuality: [],
+    cobenefit: "",
+    initiativeStage: "Work in progress",
+    description: `The initiative involved using the SE-QI Toolkit to support sustainability-focused quality improvement work within Northern Health, particularly in relation to clinical ideas such as reducing single-use materials, such as disposable patient gowns, and improving resource stewardship.`,
+    toolkitApplication: `The Toolkit was used during meetings with clinical teams by inputting project ideas and guiding users through Steps 1–3 to explore sustainability opportunities and interpret outputs. It also helped identify relevant resources and demonstrated the Toolkit’s accessibility and practical utility for users unfamiliar with the field of planetary health.`,
+    toolkitAudienceUptake: `The primary audience has been clinical teams and individuals initiating sustainability-related QI projects. Uptake has been early-stage and exploratory, with the Toolkit mainly used as an engagement and education tool.`,
+    mostValuableElements: `Step 2 of the Toolkit was identified as the most valuable component due to its clear, structured presentation of resources that helped avoid unnecessary complexity. It enabled users to efficiently identify relevant pathways and supported quicker decision-making without requiring extensive independent research.`,
+    qiIntegration: "Yes",
+    qiIntegrationComments: `There is strong potential for the Toolkit to be integrated into routine QI work within Northern Health. Given limited capacity in current care models and few dedicated sustainability roles, the Toolkit could help provide structure and direction for teams pioneering people-oriented clinical sustainability initiatives.`
+},
+{
+    id: 10,
+    type: "initiative",
+    title: "Integrating the SE-QI Toolkit in ONSQIN",
+    photo: "images/project10.jpg",
+    organization: "Ontario Health",
+    department: "Ontario Surgical Quality Improvement Network",
+    healthcareSetting: "",
+    sustainabilityPrinciples: [],
+    sustainabilityOpportunities: [],
+    metrics: {
+        environmental: [],
+        activity: []
+    },
+    domainsOfQuality: [],
+    cobenefit: "",
+    initiativeStage: "Work in progress",
+    description: `An early-stage initiative involving exploration of the SE-QI Toolkit as a potential future resource to be introduced and disseminated to clinicians through Ontario Health’s Closing the Quality Gap campaign. The Toolkit has the potential to support surgical quality improvement projects by incorporating a valuable sustainability lens into clinically focused initiatives.`,
+    toolkitApplication: `The Toolkit was recently featured at the Ontario Health's Closing the Quality Gap campaign meeting, where its capabilities, resources, and potential for formal integration into educational curricula were discussed.`,
+    toolkitAudienceUptake: `The intended audience is ONSQIN members across approximately 55 hospitals in Ontario. Uptake is currently limited to pilot exploration, with initial use focused on testing feasibility and gathering insights to support potential future scaling.`,
+    mostValuableElements: `Information on how sustainability outcomes can be incorporated into clinical projects.
 Links to credible carbon calculators to aid data collection, measurement, and analysis.`,
-        qiIntegration: "No",
-        qiIntegrationComments: ""
-    }
+    qiIntegration: "No",
+    qiIntegrationComments: ""
+}
 
 
  
